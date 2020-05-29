@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "471719998311",
+    "firebase_url": "https://leuvbike.firebaseio.com",
+    "project_id": "leuvbike",
+    "storage_bucket": "leuvbike.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471719998311:android:f42d7926ceeba69b",
+        "android_client_info": {
+          "package_name": "be.kuleuven.softdev.august.leuvbike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471719998311-69m285ofbtgvb063sinod74kj107ontf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "be.kuleuven.softdev.august.leuvbike",
+            "certificate_hash": "d002fad7d3198918187a887647b2c4218e86b03a"
+          }
+        },
+        {
+          "client_id": "471719998311-ub01hnrbr6q7vs1cscitbe49hm5euu8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "be.kuleuven.softdev.august.leuvbike",
+            "certificate_hash": "1791145952d38460ec4239d994d45c3f9f4c8c9f"
+          }
+        },
+        {
+          "client_id": "471719998311-t1mj3sshrisqonarbos7ej29vd3f0d74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiVMJt5Bie4WbeJ3GxnwGFKAL4cdINcmo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471719998311-t1mj3sshrisqonarbos7ej29vd3f0d74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

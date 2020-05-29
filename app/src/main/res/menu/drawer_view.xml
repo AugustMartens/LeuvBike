@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+        <item
+            android:id="@+id/nav_camera"
+            android:checkable="false"
+            android:title="import" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:checkable="false"
+            android:title="gallery" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:checkable="false"
+            android:title="slideshow" />
+        <item
+            android:id="@+id/nav_manage"
+            android:checkable="false"
+            android:title="tools" />
+</menu>
